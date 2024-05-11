@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **GUVI Course Fullstack**
 
-- 🌱 I’m currently learning **HTML, CSS, JS, REACT, MANGO DB**
+- 🌱 I’m currently learning **HTML, CSS, JS, REACT, MONGO DB**
 
 - 👯 I’m looking to collaborate on **MERN applications**
 
