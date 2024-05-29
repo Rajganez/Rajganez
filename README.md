@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajganesh</h1>
 <h3 align="center">A Curious frontend developer from India</h3>
 
-- 🔭 I’m currently working on **GUVI Course Fullstack**
+- 🔭 I’m currently working on **Fullstack MERN Developer**
 
 - 🌱 I’m currently learning **HTML, CSS, JS, REACT, MONGO DB**
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **JS , REACT JS, HTML, CSS**
 
-- 📫 How to reach me **ganezsouth@live.com**
+- 📫 How to reach me **ganezsouth@live.com and ganez146@gmail.com**
 
 - 📄 Know about my experiences [coming soon....](coming soon....)
 
