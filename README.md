@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **JS , REACT JS, HTML, CSS**
 
-- 📫 How to reach me **ganezsouth@live.com and ganez146@gmail.com**
+- 📫 How to reach me **ganezsouth@live.com**
 
 - 📄 Know about my experiences [coming soon....](coming soon....)
 
