@@ -16,7 +16,7 @@
 1. Chat Application <a href="https://hibuddychatapp.netlify.app/">Hi!, Buddy</a>
     - React + Vite + Bootstrap - Front-End: https://github.com/Rajganez/chat-application-frontend
     - Node.js,Express,MongoDB - Back-End: https://github.com/Rajganez/Chat-Application_BackEnd
-    - 
+    
 2. Admin Page for Online Teaching <a href="https://httdbadminpage.netlify.app/">HTT Admin Page</a>
     - React + Vite + Bootstrap - Front-End: https://github.com/Rajganez/frontendAssignMentor
     - Express,MongoDB - Back-End: https://github.com/Rajganez/assign-mentor
