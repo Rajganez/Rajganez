@@ -11,7 +11,12 @@
   I'm constantly exploring new technologies, refining my coding skills, and working on projects that challenge me to learn and grow. I believe in the power of collaboration and am always open to connecting with like-minded individuals who share my enthusiasm for development.
 </p>
 
-🌟 Featured Projects:
+# 🌟 Featured Projects:
+
+1. Chat Application <a href="https://hibuddychatapp.netlify.app/">Hi!, Buddy</a>
+- React + Vite Front-End: https://github.com/Rajganez/chat-application-frontend
+- Node.js,Express,MongoDB Back-End: https://github.com/Rajganez/Chat-Application_BackEnd
+
 
 # 📊 GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=Rajganez&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="400"/><br/>
