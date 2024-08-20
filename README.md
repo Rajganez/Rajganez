@@ -14,8 +14,8 @@
 # 🌟 Featured Projects:
 
 1. Chat Application <a href="https://hibuddychatapp.netlify.app/">Hi!, Buddy</a>
-- React + Vite Front-End: https://github.com/Rajganez/chat-application-frontend
-- Node.js,Express,MongoDB Back-End: https://github.com/Rajganez/Chat-Application_BackEnd
+    - React + Vite Front-End: https://github.com/Rajganez/chat-application-frontend
+    - Node.js,Express,MongoDB Back-End: https://github.com/Rajganez/Chat-Application_BackEnd
 
 
 # 📊 GitHub Stats:
