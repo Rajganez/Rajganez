@@ -15,13 +15,21 @@
 
 1. Chat Application <a href="https://hibuddychatapp.netlify.app/">Hi!, Buddy</a>
     - React + Vite + Bootstrap - Front-End: https://github.com/Rajganez/chat-application-frontend
-    - Node.js,Express,MongoDB - Back-End: https://github.com/Rajganez/Chat-Application_BackEnd
-    
-2. Admin Page for Online Teaching <a href="https://httdbadminpage.netlify.app/">HTT Admin Page</a>
+    - Node.js,Express,MongoDB,Socket.io,Multer,Cloudinary - Back-End: https://github.com/Rajganez/Chat-Application_BackEnd
+
+2. SaaS CRM <a href="https://trueroi.netlify.app/">TrueROI</a>
+    - React + Vite + TailwindCSS + FramerMotion - Front-End: https://github.com/Rajganez/trueroi
+    - Node.js,Express,MongoDB,ReadExcelFiles, Multer - Back-End: https://github.com/Rajganez/server-troi
+
+3. Billing Application <a href="https://invoicemasterbyraj.netlify.app/">InvoiceMaster</a>
+    - React + Vite + TailwindCSS + ShadCN - Front-End: https://github.com/Rajganez/InvoiceMaster/frontend
+    - Node.js,Express,MongoDB,GoogleOAuth,Razorpay - Back-End: https://github.com/Rajganez/InvoiceMaster
+      
+4. Admin Page for Online Teaching <a href="https://httdbadminpage.netlify.app/">HTT Admin Page</a>
     - React + Vite + Bootstrap - Front-End: https://github.com/Rajganez/frontendAssignMentor
     - Express,MongoDB - Back-End: https://github.com/Rajganez/assign-mentor
 
-3. CRUD Operation using mockAPI <a href="https://hiranapartresidents.netlify.app/">Apartment Management</a>
+5. CRUD Operation using mockAPI <a href="https://hiranapartresidents.netlify.app/">Apartment Management</a>
     - React + Vite + Bootstrap - Front-End: https://github.com/Rajganez/ApiHandling
 
 - 📫 How to reach me **ganezsouth@live.com**
